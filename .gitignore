@@ -1,4 +1,4 @@
-webscraping_basic/*.html
+*.html
 images/*
 시가총액1-200.csv
 chromedriver.exe
